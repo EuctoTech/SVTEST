@@ -49,7 +49,7 @@ const Feesmaping = () => {
         const response = await axios.get('');
         setOptions(response.data);
       } catch (error) {
-        console.error('Error fetching data:', error);
+        console.error('Error fetching data all:', error);
       }
     };
 
