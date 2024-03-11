@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/svsportaladmintest/static/css/main.a1f97bdc.css",
+    "main.js": "/svsportaladmintest/static/js/main.97101dc1.js",
+    "static/media/StudentSVSMain.jpg": "/svsportaladmintest/static/media/StudentSVSMain.257397e056a75fedbbba.jpg",
+    "static/media/SponsorImage.jpg": "/svsportaladmintest/static/media/SponsorImage.12d67b4fcb5a5023cb32.jpg",
+    "static/media/backgroundImg.png": "/svsportaladmintest/static/media/backgroundImg.43faf712f28667a138ff.png",
+    "static/media/sponorVec.jpg": "/svsportaladmintest/static/media/sponorVec.b4add781f27c9299522f.jpg",
+    "static/media/3959810.jpg": "/svsportaladmintest/static/media/3959810.450e7f11ec0d475d40bb.jpg",
+    "static/media/Svs-invoice.jpg": "/svsportaladmintest/static/media/Svs-invoice.f86bd51493e0e8166940.jpg",
+    "static/media/logo.jpeg": "/svsportaladmintest/static/media/logo.ba4075a9a2e5adf4b622.jpeg",
+    "static/media/Adminer.jpg": "/svsportaladmintest/static/media/Adminer.38fd1eb6b046ee3bc542.jpg",
+    "static/media/incomevec.jpg": "/svsportaladmintest/static/media/incomevec.fd590cf17b0bc9e3dec3.jpg",
+    "static/media/SVS-Sample-profile.xlsx": "/svsportaladmintest/static/media/SVS-Sample-profile.b18319bb5554d34bba4a.xlsx",
+    "static/media/avatarStudent.svg": "/svsportaladmintest/static/media/avatarStudent.bed0beba0e8bf953080b665e81b37c57.svg",
+    "index.html": "/svsportaladmintest/index.html",
+    "main.a1f97bdc.css.map": "/svsportaladmintest/static/css/main.a1f97bdc.css.map",
+    "main.97101dc1.js.map": "/svsportaladmintest/static/js/main.97101dc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1f97bdc.css",
+    "static/js/main.97101dc1.js"
+  ]
+}
